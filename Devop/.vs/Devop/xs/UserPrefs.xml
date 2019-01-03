@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.ItemProperties.Devop.Android PreferredExecutionTarget="Android.192.168.56.103:5555" FirstBuild="True" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Devop/MainPage.xaml">
     <Files>
-      <File FileName="Devop/MainPage.xaml" Line="10" Column="15" />
+      <File FileName="Devop/MainPage.xaml" Line="12" Column="15" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
