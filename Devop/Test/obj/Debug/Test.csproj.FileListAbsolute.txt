@@ -1,0 +1,9 @@
+/Users/imac/Documents/DevopSample/Devop/Test/bin/Debug/Test.dll
+/Users/imac/Documents/DevopSample/Devop/Test/bin/Debug/Test.pdb
+/Users/imac/Documents/DevopSample/Devop/Test/bin/Debug/nunit.framework.dll
+/Users/imac/Documents/DevopSample/Devop/Test/bin/Debug/nunit.framework.xml
+/Users/imac/Documents/DevopSample/Devop/Test/obj/Debug/Test.csprojAssemblyReference.cache
+/Users/imac/Documents/DevopSample/Devop/Test/obj/Debug/Test.csproj.CoreCompileInputs.cache
+/Users/imac/Documents/DevopSample/Devop/Test/obj/Debug/Test.csproj.CopyComplete
+/Users/imac/Documents/DevopSample/Devop/Test/obj/Debug/Test.dll
+/Users/imac/Documents/DevopSample/Devop/Test/obj/Debug/Test.pdb

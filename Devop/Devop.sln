@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Devop.iOS", "Devop.iOS\Devo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Devop", "Devop\Devop.csproj", "{2F926300-A419-494C-A67B-18D59B5A8E92}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{C909E3A6-7610-4EDA-90E7-880C0A9B1CE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,5 +69,21 @@ Global
 		{2F926300-A419-494C-A67B-18D59B5A8E92}.Ad-Hoc|iPhone.Build.0 = Debug|Any CPU
 		{2F926300-A419-494C-A67B-18D59B5A8E92}.AppStore|iPhone.ActiveCfg = Debug|Any CPU
 		{2F926300-A419-494C-A67B-18D59B5A8E92}.AppStore|iPhone.Build.0 = Debug|Any CPU
+		{C909E3A6-7610-4EDA-90E7-880C0A9B1CE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C909E3A6-7610-4EDA-90E7-880C0A9B1CE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C909E3A6-7610-4EDA-90E7-880C0A9B1CE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C909E3A6-7610-4EDA-90E7-880C0A9B1CE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C909E3A6-7610-4EDA-90E7-880C0A9B1CE6}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{C909E3A6-7610-4EDA-90E7-880C0A9B1CE6}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{C909E3A6-7610-4EDA-90E7-880C0A9B1CE6}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{C909E3A6-7610-4EDA-90E7-880C0A9B1CE6}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{C909E3A6-7610-4EDA-90E7-880C0A9B1CE6}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{C909E3A6-7610-4EDA-90E7-880C0A9B1CE6}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{C909E3A6-7610-4EDA-90E7-880C0A9B1CE6}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{C909E3A6-7610-4EDA-90E7-880C0A9B1CE6}.Release|iPhone.Build.0 = Release|Any CPU
+		{C909E3A6-7610-4EDA-90E7-880C0A9B1CE6}.Ad-Hoc|iPhone.ActiveCfg = Debug|Any CPU
+		{C909E3A6-7610-4EDA-90E7-880C0A9B1CE6}.Ad-Hoc|iPhone.Build.0 = Debug|Any CPU
+		{C909E3A6-7610-4EDA-90E7-880C0A9B1CE6}.AppStore|iPhone.ActiveCfg = Debug|Any CPU
+		{C909E3A6-7610-4EDA-90E7-880C0A9B1CE6}.AppStore|iPhone.Build.0 = Debug|Any CPU
 	EndGlobalSection
 EndGlobal

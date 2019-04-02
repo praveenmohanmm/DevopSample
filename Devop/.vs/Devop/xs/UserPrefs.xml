@@ -1,16 +1,18 @@
 ﻿<Properties StartupConfiguration="{16C8F892-F86B-48C2-9D78-DF3345C7713F}|Default">
-  <MonoDevelop.Ide.ItemProperties.Devop.Android PreferredExecutionTarget="Android.192.168.56.103:5555" FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Devop/MainPage.xaml">
+  <MonoDevelop.Ide.ItemProperties.Test FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Devop.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test/Test.cs">
     <Files>
       <File FileName="Devop/MainPage.xaml" Line="12" Column="15" />
+      <File FileName="Test/Test.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Devop FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Devop.iOS FirstBuild="True" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Devop FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Devop.iOS FirstBuild="True" />
 </Properties>
