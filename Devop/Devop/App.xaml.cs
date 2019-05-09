@@ -16,7 +16,8 @@ namespace Devop
 
       protected override void OnStart()
       {
-         // Handle when your app starts
+         // Handle when your app start
+         System.Diagnostics.Debug.WriteLine("test");
       }
 
       protected override void OnSleep()

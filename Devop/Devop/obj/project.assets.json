@@ -343,7 +343,7 @@
       "projectName": "Devop",
       "projectPath": "/Users/imac/Documents/DevopSample/Devop/Devop/Devop.csproj",
       "packagesPath": "/Users/imac/.nuget/packages/",
-      "outputPath": "/Users/imac/Documents/DevopSample/Devop/Devop/obj",
+      "outputPath": "/Users/imac/Documents/DevopSample/Devop/Devop/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -374,12 +374,12 @@
           "NETStandard.Library": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.0.3",
+            "version": "[2.0.3, )",
             "autoReferenced": true
           },
           "Xamarin.Forms": {
             "target": "Package",
-            "version": "3.0.0.446417"
+            "version": "[3.0.0.446417, )"
           }
         },
         "imports": [

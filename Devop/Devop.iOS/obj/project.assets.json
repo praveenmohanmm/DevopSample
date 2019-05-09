@@ -716,8 +716,9 @@
       "projectName": "Devop.iOS",
       "projectPath": "/Users/imac/Documents/DevopSample/Devop/Devop.iOS/Devop.iOS.csproj",
       "packagesPath": "/Users/imac/.nuget/packages/",
-      "outputPath": "/Users/imac/Documents/DevopSample/Devop/Devop.iOS/obj",
+      "outputPath": "/Users/imac/Documents/DevopSample/Devop/Devop.iOS/obj/",
       "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
       "configFilePaths": [
         "/Users/imac/.config/NuGet/NuGet.Config"
       ],
@@ -742,7 +743,7 @@
         "dependencies": {
           "Xamarin.Forms": {
             "target": "Package",
-            "version": "3.0.0.446417"
+            "version": "[3.0.0.446417, )"
           }
         }
       }
